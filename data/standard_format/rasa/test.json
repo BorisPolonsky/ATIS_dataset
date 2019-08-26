@@ -222,8 +222,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 7,
+                        "start": 0,
+                        "end": 6,
                         "value": "monday",
                         "entity": "depart_date.day_name"
                     },
@@ -300,8 +300,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 6,
+                        "start": 0,
+                        "end": 5,
                         "value": "after",
                         "entity": "depart_time.time_relative"
                     },
@@ -2016,8 +2016,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 5,
+                        "start": 0,
+                        "end": 4,
                         "value": "next",
                         "entity": "depart_date.date_relative"
                     },
@@ -7380,8 +7380,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 12,
+                        "start": 0,
+                        "end": 11,
                         "value": "kansas city",
                         "entity": "fromloc.city_name"
                     },
@@ -7410,8 +7410,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 7,
+                        "start": 0,
+                        "end": 6,
                         "value": "monday",
                         "entity": "depart_date.day_name"
                     },
@@ -7440,8 +7440,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 12,
+                        "start": 0,
+                        "end": 11,
                         "value": "kansas city",
                         "entity": "fromloc.city_name"
                     },
@@ -7470,8 +7470,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 8,
+                        "start": 0,
+                        "end": 7,
                         "value": "atlanta",
                         "entity": "fromloc.city_name"
                     },
@@ -7506,8 +7506,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 10,
+                        "start": 0,
+                        "end": 9,
                         "value": "st. louis",
                         "entity": "fromloc.city_name"
                     },
@@ -7542,8 +7542,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 9,
+                        "start": 0,
+                        "end": 8,
                         "value": "st. paul",
                         "entity": "fromloc.city_name"
                     },
@@ -7572,8 +7572,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 10,
+                        "start": 0,
+                        "end": 9,
                         "value": "cleveland",
                         "entity": "fromloc.city_name"
                     },
@@ -7608,8 +7608,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 12,
+                        "start": 0,
+                        "end": 11,
                         "value": "kansas city",
                         "entity": "fromloc.city_name"
                     },
@@ -7644,8 +7644,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 10,
+                        "start": 0,
+                        "end": 9,
                         "value": "cleveland",
                         "entity": "fromloc.city_name"
                     },
@@ -7674,8 +7674,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 10,
+                        "start": 0,
+                        "end": 9,
                         "value": "nashville",
                         "entity": "fromloc.city_name"
                     },
@@ -7710,8 +7710,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 12,
+                        "start": 0,
+                        "end": 11,
                         "value": "first class",
                         "entity": "class_type"
                     },
@@ -7776,8 +7776,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 12,
+                        "start": 0,
+                        "end": 11,
                         "value": "los angeles",
                         "entity": "fromloc.city_name"
                     },
@@ -7806,8 +7806,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 12,
+                        "start": 0,
+                        "end": 11,
                         "value": "minneapolis",
                         "entity": "fromloc.city_name"
                     },
@@ -7824,8 +7824,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 12,
+                        "start": 0,
+                        "end": 11,
                         "value": "minneapolis",
                         "entity": "fromloc.city_name"
                     },
@@ -14045,8 +14045,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 11,
+                        "start": 0,
+                        "end": 10,
                         "value": "round trip",
                         "entity": "round_trip"
                     },
@@ -14507,8 +14507,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 12,
+                        "start": 0,
+                        "end": 11,
                         "value": "kansas city",
                         "entity": "fromloc.city_name"
                     },
@@ -14531,8 +14531,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 12,
+                        "start": 0,
+                        "end": 11,
                         "value": "kansas city",
                         "entity": "fromloc.city_name"
                     },
@@ -14591,8 +14591,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 10,
+                        "start": 0,
+                        "end": 9,
                         "value": "las vegas",
                         "entity": "fromloc.city_name"
                     },
@@ -14615,8 +14615,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 10,
+                        "start": 0,
+                        "end": 9,
                         "value": "las vegas",
                         "entity": "fromloc.city_name"
                     },
@@ -14639,8 +14639,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 10,
+                        "start": 0,
+                        "end": 9,
                         "value": "baltimore",
                         "entity": "fromloc.city_name"
                     },
@@ -14723,8 +14723,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 9,
+                        "start": 0,
+                        "end": 8,
                         "value": "columbus",
                         "entity": "fromloc.city_name"
                     },
@@ -14771,8 +14771,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 15,
+                        "start": 0,
+                        "end": 14,
                         "value": "st. petersburg",
                         "entity": "fromloc.city_name"
                     },
@@ -17320,8 +17320,8 @@
                 "intent": "airfare",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 9,
+                        "start": 0,
+                        "end": 8,
                         "value": "cheapest",
                         "entity": "cost_relative"
                     },
@@ -17362,8 +17362,8 @@
                 "intent": "airfare",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 9,
+                        "start": 0,
+                        "end": 8,
                         "value": "cheapest",
                         "entity": "cost_relative"
                     },
@@ -17440,8 +17440,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 9,
+                        "start": 0,
+                        "end": 8,
                         "value": "saturday",
                         "entity": "depart_date.day_name"
                     },
@@ -17614,8 +17614,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 7,
+                        "start": 0,
+                        "end": 6,
                         "value": "newark",
                         "entity": "fromloc.city_name"
                     },
@@ -17638,8 +17638,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 6,
+                        "start": 0,
+                        "end": 5,
                         "value": "tampa",
                         "entity": "fromloc.city_name"
                     },
@@ -17668,8 +17668,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 10,
+                        "start": 0,
+                        "end": 9,
                         "value": "charlotte",
                         "entity": "fromloc.city_name"
                     },
@@ -17692,8 +17692,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 10,
+                        "start": 0,
+                        "end": 9,
                         "value": "baltimore",
                         "entity": "fromloc.city_name"
                     },
@@ -17722,8 +17722,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 7,
+                        "start": 0,
+                        "end": 6,
                         "value": "dallas",
                         "entity": "fromloc.city_name"
                     },
@@ -17752,8 +17752,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 8,
+                        "start": 0,
+                        "end": 7,
                         "value": "houston",
                         "entity": "fromloc.city_name"
                     },
@@ -17782,8 +17782,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 13,
+                        "start": 0,
+                        "end": 12,
                         "value": "indianapolis",
                         "entity": "fromloc.city_name"
                     },
@@ -17812,8 +17812,8 @@
                 "intent": "airfare",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 9,
+                        "start": 0,
+                        "end": 8,
                         "value": "cheapest",
                         "entity": "cost_relative"
                     },
@@ -17848,8 +17848,8 @@
                 "intent": "airfare",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 9,
+                        "start": 0,
+                        "end": 8,
                         "value": "cheapest",
                         "entity": "cost_relative"
                     },
@@ -17890,8 +17890,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 10,
+                        "start": 0,
+                        "end": 9,
                         "value": "cleveland",
                         "entity": "fromloc.city_name"
                     },
@@ -17926,8 +17926,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 6,
+                        "start": 0,
+                        "end": 5,
                         "value": "miami",
                         "entity": "fromloc.city_name"
                     },
@@ -17956,8 +17956,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 14,
+                        "start": 0,
+                        "end": 13,
                         "value": "new york city",
                         "entity": "fromloc.city_name"
                     },
@@ -17992,8 +17992,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 14,
+                        "start": 0,
+                        "end": 13,
                         "value": "new york city",
                         "entity": "fromloc.city_name"
                     },
@@ -18028,8 +18028,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 9,
+                        "start": 0,
+                        "end": 8,
                         "value": "new york",
                         "entity": "fromloc.city_name"
                     },
@@ -18058,8 +18058,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 8,
+                        "start": 0,
+                        "end": 7,
                         "value": "memphis",
                         "entity": "fromloc.city_name"
                     },
@@ -18088,8 +18088,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 9,
+                        "start": 0,
+                        "end": 8,
                         "value": "new york",
                         "entity": "fromloc.city_name"
                     },
@@ -18118,8 +18118,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 8,
+                        "start": 0,
+                        "end": 7,
                         "value": "chicago",
                         "entity": "fromloc.city_name"
                     },
@@ -18148,8 +18148,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 8,
+                        "start": 0,
+                        "end": 7,
                         "value": "chicago",
                         "entity": "fromloc.city_name"
                     },
@@ -18178,8 +18178,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 12,
+                        "start": 0,
+                        "end": 11,
                         "value": "los angeles",
                         "entity": "fromloc.city_name"
                     },
@@ -18208,8 +18208,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 12,
+                        "start": 0,
+                        "end": 11,
                         "value": "los angeles",
                         "entity": "fromloc.city_name"
                     },
@@ -18238,8 +18238,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 11,
+                        "start": 0,
+                        "end": 10,
                         "value": "pittsburgh",
                         "entity": "fromloc.city_name"
                     },
@@ -18268,8 +18268,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 10,
+                        "start": 0,
+                        "end": 9,
                         "value": "milwaukee",
                         "entity": "fromloc.city_name"
                     },
@@ -18292,8 +18292,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 8,
+                        "start": 0,
+                        "end": 7,
                         "value": "phoenix",
                         "entity": "fromloc.city_name"
                     },
@@ -18316,8 +18316,8 @@
                 "intent": "flight",
                 "entities": [
                     {
-                        "start": 1,
-                        "end": 8,
+                        "start": 0,
+                        "end": 7,
                         "value": "phoenix",
                         "entity": "fromloc.city_name"
                     },
